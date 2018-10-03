@@ -4,5 +4,6 @@ public class Test
 		System.out.println("hello");
 		System.out.println("create a branch dev");
 		System.out.println("program2 dev program 1.0");
+		System.out.println("dev program 1.0");
 	}
 }
